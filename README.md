@@ -1,5 +1,3 @@
-# AutoJump
+N activate auto-jump
 
-N is activate autojump
-
-With X you can leave
+Can be exited with X
